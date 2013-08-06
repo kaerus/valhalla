@@ -1,0 +1,13 @@
+{ "name": "valhalla",
+  "version": "0.0.1",
+  "author": "Anders Elo <anders@kaerus.com>",
+  "description": "Software configuration management",
+  "main": "valhalla.js",
+  "engines": { "node": ">=0.8.7" },
+  "dependencies": {
+    "ssh2": ">=0.2.11"
+  },
+  "keywords": [ "scm", "cm", "configuration", "management", "software", "system", "remote", "client" ],
+  "licenses": [ { "type": "APACHE_2", "url": "http://github.com/kaerus/valhalla/raw/master/LICENSE" } ],
+  "repository" : { "type": "git", "url": "http://github.com/kaerus/valhalla.git" }
+}

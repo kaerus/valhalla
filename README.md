@@ -1,4 +1,5 @@
-vallhalla
+valhalla
 =========
 
-configuration management 
+A Node.js Software Configuration Manager
+
